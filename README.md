@@ -14,7 +14,7 @@ Stack:
 * Django 3.2.4
 * Django Rest Framework 3.12.4
 
-Pacotes:
+Packages:
 * Markdown 3.3.4
 * Validators 0.18.2
 
