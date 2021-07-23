@@ -9,9 +9,13 @@ Main features:
 4. **Authentication service to access GET, POST, PUT and DELETE routes**.
 
 Stack:
+* SQLite
 * Python 3.9.4
 * Django 3.2.4
 * Django Rest Framework 3.12.4
+
+Pacotes:
 * Markdown 3.3.4
+* Validators 0.18.2
 
 #alurachallengeback
